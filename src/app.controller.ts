@@ -17,6 +17,6 @@ export class AppController {
 
   @Get('/it2')
   getit2(): string {
-    return '555555.';
+    return '555555S';
   }
 }
