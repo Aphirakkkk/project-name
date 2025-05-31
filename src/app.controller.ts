@@ -19,4 +19,9 @@ export class AppController {
   getit2(): string {
     return '555555S.';
   }
+
+  @Get('/it3')
+  getit3(): string {
+    return 'sdsds.';
+  }
 }
