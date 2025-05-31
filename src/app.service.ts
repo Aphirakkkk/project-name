@@ -5,7 +5,7 @@ export class AppService {
   getHello(): any {
     return {
        name: 'Aphirak Sainui',
-       id:'66112806.',     
+       id:'66112806n,bhgykg',     
     };
   }
 
